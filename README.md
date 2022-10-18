@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @sakthixx
-- 👀 I’m interested in coding, learning new skills.
-- 🌱 I’m currently learning some of the industry oriented languages.
-- 📫 Reach me at:
-      Email: sakt20101.cb@rmkec.ac.in
+NAIVE BAYES CLASSIFIER ALGORITHM:
+      -> basically naive bayes classifers are set of classification algorithms based on Bayes theorem.
+      -> its not a single algorthm but a group of algoruthms where all the algorithms share a common principle and work on it.
